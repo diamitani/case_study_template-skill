@@ -1,3 +1,9 @@
+---
+name: case-study-template
+description: >
+  Build the Case Study from this structure. Lead with outcome. Name technologies and translate them (see pal-depth-guide.md). Include only the optional sections the evidence earns. Title format: **[Outcome-led title] — [What it was]** e.g., *"From 6 Hours to 6 Minutes: An AI Pipeline That Builds Prosp Use this skill when working with case study template tasks or workflows.
+---
+
 # Case Study / Project Overview — Template
 
 Build the Case Study from this structure. Lead with outcome. Name technologies and translate
@@ -69,7 +75,7 @@ confident and specific, never boastful.
 ## Rendering notes
 - **HTML version**: use references/html-template.html. The "At a glance" box becomes the hero;
   the Tools table becomes cards; the architecture diagram renders via Mermaid from CDN.
-- **.docx/PDF**: route through the `{{COMPANY_NAME}}-docs` skill for Gelion fonts + {{COMPANY_NAME}} branding.
-  The **redacted** version keeps the layout but **removes the {{COMPANY_NAME}} logo and any client logo**
+- **.docx/PDF**: route through the `Enterprise Platform-docs` skill for Gelion fonts + Enterprise Platform branding.
+  The **redacted** version keeps the layout but **removes the Enterprise Platform logo and any client logo**
   and swaps named entities for category descriptors.
 - **Markdown**: this structure verbatim, clean headings, the tables as Markdown tables.
